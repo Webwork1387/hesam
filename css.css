@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+h1
+{
+color: rgb(26, 155, 9);
+}
+h3
+{
+    color: #66bfbf;
+}
+
+.orange {
+color: orange;
+}
+
+.apple {
+    color: greenyellow;
+}
+
+#banana {
+    color: yellow;
+}
+
+#cherries {
+    color: red;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: rgb(26, 155, 9);
+    border-width: 10px;
+    height: 10px;
+    }
+
+    .oreng {
+        background-color: rgb(6, 109, 122);
+    }
+
+    .appe {
+        background-color: orange;
+    }
+
+    .banna {
+        background-color: greenyellow;
+    }
+
+    .chee {
+        background-color: yellow;
+    }

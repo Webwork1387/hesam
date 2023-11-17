@@ -1,0 +1,145 @@
+.game {
+    color: rgb(219, 27, 194);
+}
+
+.are {
+    color: rgb(35, 77, 167);
+}
+ .type {
+    position: relative;
+    left: 300px;
+    bottom: 45px;
+ }
+
+ .p1 {
+    color:rgb(22, 71, 177) ;
+ }
+
+ .h1 {
+    color: rgb(219, 27, 194) ;
+ }
+
+ .type2 {
+    position: relative;
+    left: 300px;
+    bottom: 45px;
+ }
+
+ .tow {
+   color: rgb(219, 27, 194);
+ }
+
+ .h2 {
+   color: rgb(22, 71, 177);
+ }
+
+ .h3 {
+   color:rgb(219, 27, 194) ;
+ }
+
+ .hr1 {
+   border-style: dotted none none;
+   border-color:rgb(22, 71, 177);
+   border-width: 10px;
+   height: 10px;
+ }
+
+.h4 {
+   color:rgb(219, 27, 194);
+}
+
+.hr2 {
+   border-style: dotted none none;
+   border-color: rgb(219, 27, 194);
+   border-width: 10px;
+   height: 10px;
+}
+
+.FIFA {
+   position: relative;
+   left: 200px;
+   bottom: 50px;
+}
+
+.h5 {
+   color: rgb(22, 71, 177);
+}
+
+.h6 {
+   color: rgb(22, 71, 177);
+}
+
+.GTA {
+   position: relative;
+   left: 200px;
+   bottom: 50px;
+}
+
+.hr3 {
+   border-style: dotted none none;
+   border-color:rgb(22, 71, 177);
+   border-width: 10px;
+   height: 10px;
+ }
+
+ .h7 {
+   color: rgb(219, 27, 194);
+ }
+
+ .h8 {
+   color: rgb(219, 27, 194);
+ }
+
+ .warzone {
+   position: relative;
+   left: 200px;
+   bottom: 50px;
+ }
+
+ .hr4 {
+   border-style: dotted none none;
+   border-color: rgb(219, 27, 194);
+   border-width: 10px;
+   height: 10px;
+ }
+
+ .h9 {
+   color: rgb(22, 71, 177);
+ }
+
+ .h10 {
+   color: rgb(22, 71, 177);
+ }
+
+ .Fortnite {
+   position: relative;
+   left: 200px;
+   bottom: 50px;
+ }
+
+ .hr5 {
+   border-style: dotted none none;
+   border-color:rgb(22, 71, 177);
+   border-width: 10px;
+   height: 10px;
+ }
+
+ .span1 {
+   color: rgb(219, 27, 194);
+ }
+
+ .span2 {
+   color: rgb(22, 71, 177);
+ }
+
+ .span3 {
+   color: rgb(219, 27, 194);
+ }
+
+ .span4 {
+   color: rgb(22, 71, 177);
+ }
+
+ .div1 {
+  background-color: rgb(219, 27, 194);
+ }

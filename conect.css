@@ -1,0 +1,15 @@
+body {
+    background-color: purple;
+}
+
+hr {
+    color: black;
+}
+h1 {
+    color: white;
+}
+
+.font {
+    font-size: 50px;
+    color: white;
+}
